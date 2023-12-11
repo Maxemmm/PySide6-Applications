@@ -42,6 +42,7 @@ class MainWindow(QMainWindow):
         reveal_action.triggered.connect(lambda: reveal_action.setIcon(QIcon(":/icons/icons/eye-off.svg")) if self.ui.lineEdit_2.echoMode() == QLineEdit.EchoMode.Password else reveal_action.setIcon(QIcon(":/icons/icons/eye.svg")))
 
         # SIGN UP BUTTON SETUP
+        # TODO: change SIGN UP label to a QPushButton
         self.ui.label_2.mousePressEvent = self.open_signup_window
 
     def open_signup_window(self, event):
