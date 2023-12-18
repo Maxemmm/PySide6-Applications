@@ -1,0 +1,43 @@
+{
+    "en-us": {
+      "pushButton": "Button 1",
+      "pushButton_2": "Button 2",
+      "label": "Testing",
+      "menuLanguage": "Language",
+      "actionFrench": "French",
+      "actionEnglish": "English",
+      "actionChinese": "Chinese",
+      "actionArabic": "Arabic"
+    },
+    "fr-fr": {
+      "pushButton": "Bouton 1",
+      "pushButton_2": "Bouton 2",
+      "label": "Test",
+      "menuLanguage": "Langue",
+      "actionFrench": "Français",
+      "actionEnglish": "Anglais",
+      "actionChinese" : "Chinois",
+      "actionArabic": "Arabe"
+    },
+    "zh-cn": {
+      "pushButton": "按钮 1",
+      "pushButton_2": "按钮 2",
+      "label": "测试",
+      "menuLanguage": "语言",
+      "actionFrench": "法语",
+      "actionEnglish": "英语",
+      "actionChinese": "中文",
+      "actionArabic": "阿拉伯语"
+    },
+    "ar-AE": {
+      "pushButton": "زر 1",
+      "pushButton_2": "زر 2",
+      "label": "اختبار",
+      "menuLanguage": "لغة",
+      "actionFrench": "فرنسي",
+      "actionEnglish": "إنجليزي",
+      "actionChinese": "صينى",
+      "actionArabic": "عربى"
+    }
+  }
+  
